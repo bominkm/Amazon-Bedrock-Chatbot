@@ -1,7 +1,7 @@
 import streamlit as st
 import backend as be
 
-st.title("안녕하세요 챗봇입니다")
+st.title("Amazon Bedrock Chatbot")
 st.session_state.memory = be.buff_memory()
 st.session_state.chat_history = []
 
