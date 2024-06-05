@@ -1,6 +1,6 @@
 # Amazon-Bedrock-Chatbot
 
-* Model Access : AWS Console ➔ Amazon Bedrock ➔ Model Access
+* Model Access : AWS Console > Amazon Bedrock > Model Access
 * Python Code
 ```
     python3 -m venv chat
